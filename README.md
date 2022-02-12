@@ -13,5 +13,5 @@ Please run following command to download from Sci-Hub.
 
 ## TODO
 - [ ] User interface
-- [ ] More accuracte reference recognition
-- [ ] More downloading source such as Google Scholar
+- [ ] More accurate reference recognition
+- [ ] More downloading sources such as Google Scholar
